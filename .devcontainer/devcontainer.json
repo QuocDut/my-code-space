@@ -21,11 +21,10 @@
       "extensions": [
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
-        "GitHub.copilot",
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azurestaticwebapps",
         "oderwat.indent-rainbow",
-        "GitHub.copilot"
+       "GitHub.copilot"
       ],
       "settings": {
         "emmet.includeLanguages": {
